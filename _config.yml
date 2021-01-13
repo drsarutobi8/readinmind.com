@@ -10,7 +10,7 @@ title: read in mind
 email: admin@readinmind.com
 description: > # this means to ignore newlines until "baseurl:"
   Web Developer - Graphic Artist - User Experience Designer
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "_posts" # the subpath of your site, e.g. /blog
 url: "https://www.readinmind.com" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
